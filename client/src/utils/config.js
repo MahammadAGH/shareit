@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://shareit-2r5l6.ondigitalocean.app'
+export const BASE_URL = 'https://shareit-9w2ow.ondigitalocean.app/'
